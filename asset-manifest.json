@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactTODO/static/css/main.fc9918a8.css",
+    "main.js": "/ReactTODO/static/js/main.d410ec13.js",
+    "index.html": "/ReactTODO/index.html",
+    "static/media/delete.svg": "/ReactTODO/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/ReactTODO/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.fc9918a8.css.map": "/ReactTODO/static/css/main.fc9918a8.css.map",
+    "main.d410ec13.js.map": "/ReactTODO/static/js/main.d410ec13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9918a8.css",
+    "static/js/main.d410ec13.js"
+  ]
+}
