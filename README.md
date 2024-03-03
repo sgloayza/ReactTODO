@@ -1,12 +1,20 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Repositorio de Gestor de Tareas en React.js
 
-¡Hola, Platzinauta!
+¡Hola! En este repositorio, te doy la bienvenida a una herramienta poderosa para la gestión de tareas construida en React.js.
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+Aquí encontrarás un sistema robusto para organizar tu día a día, permitiéndote agregar, eliminar y marcar como completadas tus tareas pendientes.
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+Lo mejor de todo es que todas tus acciones se guardan automáticamente gracias al almacenamiento local, ¡así que nunca perderás tus avances!
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+Este proyecto está lleno de interacciones fluidas y utiliza iconos personalizados para una experiencia visualmente agradable.
+
+Además, hemos implementado las últimas herramientas de escalabilidad y organización, asegurando que puedas manejar incluso las listas de tareas más exigentes con facilidad.
+
+¿Quieres echarle un vistazo? Puedes clonar este repositorio con un simple comando (`git clone`), instalar las dependencias necesarias (`npm i`), y en un abrir y cerrar de ojos estarás ejecutando la aplicación (`npm start`) para verla en acción.
+
+¡O si lo prefieres, simplemente haz clic en este enlace [aquí](https://sgloayza.github.io/ReactTODO/) y sumérgete directamente en la funcionalidad que hemos preparado para ti!
+
+¡Esperamos que disfrutes utilizando esta herramienta tanto como disfrute creándola!
 
 ## Getting Started with Create React App
 
